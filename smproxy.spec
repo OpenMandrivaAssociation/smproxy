@@ -1,5 +1,5 @@
 Name: smproxy
-Version: 1.0.3
+Version: 1.0.4
 Release: %mkrel 1
 Summary: Session Manager Proxy
 Group: Development/X11
