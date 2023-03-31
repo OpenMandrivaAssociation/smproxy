@@ -1,7 +1,7 @@
 Summary:	Session Manager Proxy
 Name:		smproxy
 Version:	1.0.7
-Release:	1
+Release:	2
 Group:		Development/X11
 Source:		http://xorg.freedesktop.org/releases/individual/app/%{name}-%{version}.tar.xz
 License:	MIT
